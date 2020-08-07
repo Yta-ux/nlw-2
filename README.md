@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h3 align="center">Proffy | Sua plataforma de estudos</h3>
 
 <h1 align="center">
@@ -46,3 +47,6 @@ Este projeto foi desenvolvido com as seguintes tecnologia:
 Acesse o layout pelos arquivos figma:
 - <a href=".github/Proffy_Mobile.fig">Layout Mobile</a>
 - <a href=".github/Proffy_Web.fig">Layout Web:</a>
+=======
+# nlw-2
+>>>>>>> ce1829bc18969b5388fb8710cab9394499132ed3
