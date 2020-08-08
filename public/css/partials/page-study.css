@@ -107,7 +107,7 @@
     display: block;
 }
 
-.teacher-item footer button{
+.teacher-item footer .button{
     width: 20rem;
     height: 5.6rem;
     background-color: var(--color-secondary);
@@ -129,7 +129,7 @@
     outline: 0;
 }
 
-.teacher-item footer button:hover{
+.teacher-item footer .button:hover{
     background-color: var(--color-secondary-dark);
 }
 
