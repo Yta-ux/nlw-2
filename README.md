@@ -70,7 +70,11 @@ Acesse o layout pelos arquivos figma:
 ```sh
     npm install sqlite-async
 ```
-5. Executando o projeto
+5. Instalar o nunjucks
+```sh
+    npm install nunjucks
+```
+6. Executando o projeto
 ```sh
     node src/server.js
 ```
