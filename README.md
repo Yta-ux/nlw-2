@@ -48,10 +48,10 @@ Acesse o layout pelos arquivos figma:
 - <a href=".github/Proffy_Web.fig">Layout Web:</a>
 
 ## :boom: How to use
--### **Pré-Requisitos**
+- **Pré-Requisitos**
     - Precisa ter o [Node.js](https://nodejs.org/en/) instalado
     - Precisa ter o [Git](https://git-scm.com/) instalado
-    - Precisa ter o [SQLite](https://www.sqlite.org/index.html) instalado;
+    - Precisa ter o [SQLite](https://www.sqlite.org/index.html) instalado
 
 1. Clone o repositório
 ```sh
@@ -74,7 +74,7 @@ Acesse o layout pelos arquivos figma:
     node src/server.js
 ```
 ## :exclamation: Erro no código
-- O algoritimo não consegue filtrar as opções de professores e exibe.
+- O algoritimo não consegue filtrar as opções de professores e exibilos.
 
 ## :memo: License
 Este projeto esta sob licença MIT. Consulte a [Liceça](https://github.com/Yta-ux/nlw-2/blob/master/LICENSE) para obter detalhes.
