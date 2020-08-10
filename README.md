@@ -9,6 +9,7 @@
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-error">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -73,7 +74,7 @@ Acesse o layout pelos arquivos figma:
 ```sh
     node src/server.js
 ```
-## :exclamation: Erro no código
+## :exclamation: Error
 - O algoritimo não consegue filtrar as opções de professores e exibilos.
 
 ## :memo: License
