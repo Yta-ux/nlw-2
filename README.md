@@ -8,7 +8,7 @@
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <!-- <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
+  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -47,6 +47,24 @@ Acesse o layout pelos arquivos figma:
 - <a href=".github/Proffy_Mobile.fig">Layout Mobile</a>
 - <a href=".github/Proffy_Web.fig">Layout Web:</a>
 
+## :boom: How to use
+-### **Pré-Requisitos**
+    - Precisa ter o [Node.js](https://nodejs.org/en/) instalado;
+    - Precisa ter o [Git](https://git-scm.com/) instalado;
+    - Precisa ter o [SQLite](https://www.sqlite.org/index.html) instalado;
+
+1 - Clone o repositório
+```sh
+```
+2 - Instalar o Express
+```sh
+```
+3 - Instalar o **sqlite-async**
+```sh
+```
+4 - Executando o projeto
+```sh
+```
 ## :memo: License
 Este projeto esta sob licença MIT. Consulte a [Liceça](https://github.com/Yta-ux/nlw-2/blob/master/LICENSE) para obter detalhes.
 
