@@ -80,6 +80,7 @@ Acesse o layout pelos arquivos figma:
 ```
 ## :exclamation: Error
 - O algoritimo não consegue filtrar as opções de professores e exibilos.
+- Desproporção para alguns tipos de resoluções.
 
 ## :memo: License
 Este projeto esta sob licença MIT. Consulte a [Liceça](https://github.com/Yta-ux/nlw-2/blob/master/LICENSE) para obter detalhes.
