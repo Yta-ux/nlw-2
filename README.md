@@ -79,7 +79,6 @@ Acesse o layout pelos arquivos figma:
     node src/server.js
 ```
 ## :exclamation: Error
-- O algoritimo não consegue filtrar as opções de professores e exibilos.
 - Desproporção para alguns tipos de resoluções.
 
 ## :memo: License
