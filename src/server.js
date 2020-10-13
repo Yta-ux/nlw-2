@@ -12,7 +12,7 @@ server.use(express.static("public"))
 .get("/study", pageStudy)
 .get("/give-classes", pageGiveClasses)
 .post("/save-classes", saveClasses)
-.listen(4400)
+.listen(3333)
 
 // configurando nunjucks
 nunjucks.configure('src/views', {
