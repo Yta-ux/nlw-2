@@ -78,6 +78,10 @@ Acesse o layout pelos arquivos figma:
 ```sh
     node src/server.js
 ```
+7. Inicializar localhost
+```sh
+    localhost:3333
+```
 ## :exclamation: Error
 - Desproporção para alguns tipos de resoluções.
 
